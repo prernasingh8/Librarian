@@ -1,7 +1,8 @@
 <template>
+    
     <div class = "center">
         <v-row>
-            <v-col cols = "10" offset = "1">
+            <v-col cols = "10" offset = "1" sm="6" offset-sm="">
                 <v-avatar color="primary" size="100" tile>
                     <v-img src="@/assets/logo.png"></v-img>
                 </v-avatar>
